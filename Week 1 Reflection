@@ -1,0 +1,28 @@
+
+
+Hello! Im Jaden! Like I said last Tuesday, I have very minimal coding experience and was honestly really nervous when I found out how in depth the 
+coding we were doing in this class was gonna be, but after Thursdays little test run Im actually really excited to be doing like, real real coding. 
+I have a feeling I'm gonna have a lot of frustrating moments but hey, thats just codiing isnt it. And I'm excited for the moments where I finally 
+figure it out. I was also very greatful for the sharing of Dorothy Santos's Reading of "Picked Last". I felt seen and less nervous at being so new to 
+coding. 
+
+Goals for the Quarter: Have a broader understanding of code, be able to utilize at least 3 different coding websites, not pull an all nighter, 
+reduce frustration as much as possible with coding, and HAVE FUN!
+
+Copy and Paste of Coding Play we did on Thursday:
+
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background("papayaWhip");
+  strokeWeight (4)
+  stroke("pink")
+  fill ("#AEA2DE")
+  circle (200,200,50)
+  circle (50,50,20)
+  stroke ("purple")
+  strokeWeight (4)
+  strokeWeight ("green")
+}
