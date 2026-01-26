@@ -1,0 +1,45 @@
+Week 3 Reflection:
+
+Week 4 around the corner already! Wow! My goodness it feels like its all going by so fast. This week was really enjoyable, working with the Mass MoCA wall arts. I really wanted to ensure I
+knew the basics so I chose wall art 391 because it focused on lines and colors. I figured once I got it done I could mess with the time function and maybe see if I could change up some colors.
+Heres the code for that!:
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(400);
+
+//grid
+line(200,0, 200, 400);
+  stroke("black");
+  strokeWeight(25);
+  
+line(0,200, 400, 200);
+  stroke("black");
+  strokeWeight(25);
+  
+line(5,2,5,400);
+   stroke("black");
+  strokeWeight(25);
+  
+line(2,5, 400, 5);
+line(395, 5, 395, 395);
+line(0,395, 395, 395);
+  strokeWeight(25);
+//grid end
+  
+  line(0,400,200,200);
+  strokeWeight(25);
+  line(0,325,125,200);
+  line(0,260,60,200);
+  line (80,400,200,280);
+  line(140,400,200,340)
+}
+
+I didnt end up finishing it which I really should have and definetley want too. I fear though that Im still pretty fresh at coding that its taking a long time. I am definetley 
+understanding more and more how in depth coding can get, and also that im really in desperate need of some practice. I dont want to jump to fear because I feel theres no need for that yet,
+but over this next week I really want to spend more time coding. I want to get the torus to work, and Id really like to try and get some sort of working clock, even if its crazy simple.
+Im excited to see what this week brings and I know that the clock is coming up soon, so better get started on practice pretty soon! Maybe if I get lost the coding train can help or
+I can jump to the Element chats. What I AM afraid of mostly, is that Ill be limited by simplicity in my projects because I dont know how to do things. I want to make a cool clock
+and dont want the fact I dont know how to do some code stop me from making what Im wanting to make. So, off to practice some coding!
