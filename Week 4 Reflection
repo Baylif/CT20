@@ -1,0 +1,18 @@
+Week 4 Reflection:
+
+I am so deeply upset and angry and distraught. I dont understand how people who do this for a living and dont fall into either deep depression or rage. Im upset, because will all the
+things ive done I have learned so much about code and im really starting to grasp a lot of concepts and understanding code, importance of placement, where things are imbedded. I am grasping
+all of it. and yet I have nothing to show for it, Quite literally. I accidentally deleted a section of my code that did run and I cant get it back. I have 3 different P5.js files for each time
+I tried to remake the clock. i know exactly what I want, how it would run, and after hours and hours of work I still have no idea how to make it. This is hell. It pains me because I REALLY 
+WANNA MAKE THIS DAMN CLOCK. no matter what i turn in by the end of the night I still want to make the clock. I have no idea how to show you all the stuff I've learn, as like I said I have 
+very little to show for it and honestly no idea what to turn in as it is 10:13pm right now. ALSO I PROMISE THIS WAS NOT DUE TO PROCRASTINATION. Yes I did have a busy weekend and wasnt able to
+work on it much yesterday ive been working on it for a good majority of today and even started it a few days back. I wish there was a log of the time I spent. Well either way, Ill explain to 
+you what I was attempting to create and then get back to seeing if I cant recover even the tiniest bit of what Ive done. The goal was to create a card table, and for every second a card 
+of either red or black would fall on the table in a line. after every 60 in a new collum a face card would fall onto the table, and after 60 of those for an hour a joker would fall on the 
+table in a new collumn as the hours, and it would be 24 hrs. I got to a pretty solid point of the first set of seconds cards sliding across the table at frameRate(1); for each second, and I 
+even found out how to randomize the color between black and white on the card, but the second I tried to figure out how to make the cards stay behind while a new one was created thats
+where everything dell apart. I went to build an array, and realized it would be kind of strange to make 60 point for object to appear. after ages I finally figured out it had to be a create 
+new object function and I believe I somewhat figured put how to do that, but when I added it I accidentally overwrote the part of code that actually worked, went to save and instead pressed 
+the main button essentially deleting the only part of my code that did work. Devistation. Fear of failing (in code and class) all fell upon me and it took a good minuite ti get back too. I 
+have been using every refrence available and at this point its in the hands of god. I have little else to say other than im sorry. And Ill do my best in the next hour and a half to recreate 
+even the little that I knew to do any maybe more. Im hopeful, yet scared. Computers were made by the devil.
