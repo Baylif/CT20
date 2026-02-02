@@ -1,7 +1,7 @@
 Week 4 Reflection:
 
 I am so deeply upset and angry and distraught. I dont understand how people who do this for a living and dont fall into either deep depression or rage. Im upset, because will all the
-things ive done I have learned so much about code and im really starting to grasp a lot of concepts and understanding code, importance of placement, where things are imbedded. I am grasping
+things ive done I have learned so much about code and im really starting to grasp a lot of concepts and understanding importance of placement, where things are imbedded. I am grasping
 all of it. and yet I have nothing to show for it, Quite literally. I accidentally deleted a section of my code that did run and I cant get it back. I have 3 different P5.js files for each time
 I tried to remake the clock. i know exactly what I want, how it would run, and after hours and hours of work I still have no idea how to make it. This is hell. It pains me because I REALLY 
 WANNA MAKE THIS DAMN CLOCK. no matter what i turn in by the end of the night I still want to make the clock. I have no idea how to show you all the stuff I've learn, as like I said I have 
@@ -16,3 +16,23 @@ new object function and I believe I somewhat figured put how to do that, but whe
 the main button essentially deleting the only part of my code that did work. Devistation. Fear of failing (in code and class) all fell upon me and it took a good minuite ti get back too. I 
 have been using every refrence available and at this point its in the hands of god. I have little else to say other than im sorry. And Ill do my best in the next hour and a half to recreate 
 even the little that I knew to do any maybe more. Im hopeful, yet scared. Computers were made by the devil.
+
+
+I have gotten it back to my original state, finally. Anytime I try to add another loop though it doesnt work and it dissapears. also I understand why its there but messing up the curly brackets
+is the BIGGEST PAIN in the world. I know how to fix it and how they work but man.
+
+I think i figured out what my code issues was.... after like 8 hours BUT THATS FINE. the coding I kept trying to make was just the object becoming multiples, and them moving, not the 
+placement of a new object every second. that was what I kept trying to figure out in the beggining but quite literally could not figure it out to save my life.
+
+Im figuring it out! I finally kinda understand whats happening, now I think i just have to create a let function to ensure the x,y coorinates have the randomized seconds appear at at the
+spacing interval of 10+ to the right. I just dont know how to do that now. I think If can get this done right ill actually be able to somewhat build what I can. so mad i didnt find this 
+sooner I quite literally dont know with how many times I googled P5js seconds it didnt show up but oh well. Theres hope!
+
+sorry for the live posting but its working! I know excatly how to do what i need to do! I just dont think I can do it in a little over 30. I really do want to finish this, i feel so 
+personally and deeply offended by coding I now need to conquer it, and now that im so close I HAVE to finish this. I plan on coming to office hours after class to see if I cant get some 
+help on the x variable moving across the way, cuz once thats done ive got the rest, I just have to move the y variable down for each set and im done.
+
+unexpected end of input makes sense.... until it doesnt anymore. its evil and stopping me from making progress BBOOOOO. anyways, its currently 11:55, I am going to turn in what i have and 
+go to bed or else I might go crazy, but yeah, sorry for the live tweet kinda weekly update, coding is hard and highly rewarding. Im sure im not the only student to lose their mind over this
+and if i am,, well you at least gotta have one. 
+I will see u in class on Tuesday BBYYEEE
