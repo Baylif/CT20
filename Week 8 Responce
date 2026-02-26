@@ -1,0 +1,6 @@
+????
+
+I wanted to try and work a bit more on my project 2 because I felt it was a little simple and i wanted the ads to be more than just black and white. i started running into issues. So 
+I esnetially seperated each advertisement with {} under the draw function so they wouldnt interact with each other. But whenever I would try to fill a single block, or change a single text 
+it would change all of them. I figured I would just layer it, so all of them would turn the color and then i would just update the next one and it would fill all but previous, and that didnt
+work. And I started having issues where the text color wouldnt be different than the box color and no matter where i placed it it just would not do what I wanted.
