@@ -1,6 +1,10 @@
-????
 
 I wanted to try and work a bit more on my project 2 because I felt it was a little simple and i wanted the ads to be more than just black and white. i started running into issues. So 
 I esnetially seperated each advertisement with {} under the draw function so they wouldnt interact with each other. But whenever I would try to fill a single block, or change a single text 
 it would change all of them. I figured I would just layer it, so all of them would turn the color and then i would just update the next one and it would fill all but previous, and that didnt
-work. And I started having issues where the text color wouldnt be different than the box color and no matter where i placed it it just would not do what I wanted.
+work. And I started having issues where the text color wouldnt be different than the box color and no matter where i placed it it just would not do what I wanted. I think im going to put this
+on the back burner for a while. 
+
+Im excited but also nervous about the in person code meeting. I still have to schedule it, and I have a feeling in gonna talk about my card project cuz
+thats the one I went the most in depth with. Before I do it I really wanna work on updatingit and getting it to look exactly like I was imagining, so this week im gonna figure it out
+Im excited to go back to a project ive worked on before and see what I can add with all the dtuff I know now
