@@ -22,3 +22,15 @@ of JSON into the sketch and see where im going wrong there. hopefully If I can f
 something to show you. 
 
 I dont know why data.drawing is not iterable.....
+
+
+Update:
+I made a mini breakthrough! so my lines for the JSON data are showing up, I didnt have my functions in the right order which was messing with
+the placement of "drawings". anyways, i feel like this always happens, i go turn something in really empty and Im so sad about it because
+I feel like im not doing enought, and I work on it for like 5 more min and finally something happens or I find something and Im back to at least
+a little better. Right now Ive got 2 issues. Tring to get "type" in my JSON to NOT TURN GREEN I dont know why this is happening and its messing
+with my new data sets. Stupid. As well as, my orignal inverted shape which is meant to sort of act as a clipping mask so all the stuff underneath
+shows in a pretty picutre, is now a wildly different color and a very different size. Im hoping to maybe mess with the stroke weight of that and see
+what it fixes but if not and its still really ugly im sorry. Right noe I feel ok, because of the kinda precident I set for myself for this class.
+For each project If i couldnt fully figure something Out, I at least wanted whoever was looking at it to see and get a general idea of what I was going for.
+And it does! At least in my eyes, so yeah. Im gonna keep on working, but I guess sorry that its messy.
