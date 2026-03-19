@@ -1,0 +1,24 @@
+Finals week is here. Wow has it been a lot. I've been doing good and keeping track of all my work and now Im almost done. To go over my final
+project for CT20, to be frank im pretty nervous. Through the course of this class I feel like Ive been slow to grasp but ultimatley have
+followed along pretty well. But this final project I knew would be pretty unguided. I felt pretty prepared for thecchallenge obviously its a 
+natural progression, my ultimate fear was that I wouldnt be able to create a final project or something would go horribly wrong or I just 
+couldnt figure out the basics and Id have an empty project. Which is kinda what happened. Its not empty, obviously I have code and show/have 
+shown through other projects that I have at least an idea of what im doing. 
+
+To re-elaborate on my project I wanted to create a digtal data tracker of all the times I'm drawing. This would appear as lines across the main
+sketch with a width which would indicate how long id been drawing, and the color of the line indicating which type of drawing Id done. 
+I felt bad coming to stern for help again, but I do tend to have a hard time starting, so he offered me some insight and a start to the JSON
+code i should be using to build this project. I had a very clear image in my head but to be honest needed a bit of a refresher on JSON. I 
+ended up watching some of the coding train which was nice to come back to after a while. 
+
+My main struggles were the unpurpouseful highlighting of certain stuff, especially with "" and . For some reason sometimes I just could not get
+the thing I wanted highlighted, highlighted, or a thing i didnt want highlighted was. It messed me up quite a bit and I still think its why some
+of my code isnt functioning the way its meant to. 
+Also, I understand the need for a function to draw the data from the JSON, obviously thats like the whole point of my project. But for some reason
+I really just cant get anything to show up. Im going to keep working at it obviously but I feel really discouraged by that unfortunatley.
+
+I have a baseline for what I beleive should be the functions of my code, so from now on im going to do a little more digging into the extraction
+of JSON into the sketch and see where im going wrong there. hopefully If I can figure that out, then maybe ill have at least a little bit of
+something to show you. 
+
+I dont know why data.drawing is not iterable.....
